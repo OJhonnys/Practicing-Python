@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="New exercise">
+    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="New exercise, asking for a name.">
+      <change afterPath="$PROJECT_DIR$/aula06a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +52,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.aula06a.executor": "Run",
+    "Python.aula06b.executor": "Run",
+    "Python.challenge003.executor": "Run",
+    "Python.challenge004.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.1.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -88,11 +97,20 @@
       <option name="project" value="LOCAL" />
       <updated>1737421180167</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New exercise, asking for a name.">
+      <option name="closed" value="true" />
+      <created>1737463479139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737463479139</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="New exercise" />
+    <MESSAGE value="New exercise, asking for a name." />
+    <option name="LAST_COMMIT_MESSAGE" value="New exercise, asking for a name." />
   </component>
 </project>
