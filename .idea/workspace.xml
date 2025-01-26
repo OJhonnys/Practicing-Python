@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="New exercise #04. On this exercise I redid the challenge 04. But with more checks.">
+    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="Create a program that reads a student's two grades, calculates, and displays their average.">
+      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
     &quot;Python.aula06b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
     &quot;Python.challenge003.executor&quot;: &quot;Run&quot;,
     &quot;Python.challenge004.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
@@ -57,6 +59,9 @@
     &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
@@ -117,7 +122,39 @@
       <option name="project" value="LOCAL" />
       <updated>1737469646811</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Some anotation from aula 07">
+      <option name="closed" value="true" />
+      <created>1737645401322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737645401322</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Make a program that reads an integer number and displays its successor and predecessor on the screen.">
+      <option name="closed" value="true" />
+      <created>1737645410224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737645410224</updated>
+    </task>
+    <task id="LOCAL-00008" summary="# Create an algorithm that reads a number and displays its double, triple, and square root.">
+      <option name="closed" value="true" />
+      <created>1737646036564</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737646036564</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create a program that reads a student's two grades, calculates, and displays their average.">
+      <option name="closed" value="true" />
+      <created>1737646416247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737646416247</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +162,10 @@
     <MESSAGE value="New exercise, asking for a name." />
     <MESSAGE value="New exercise #03, and the challenges 03 and 04, and aula 06 a and b." />
     <MESSAGE value="New exercise #04. On this exercise I redid the challenge 04. But with more checks." />
-    <option name="LAST_COMMIT_MESSAGE" value="New exercise #04. On this exercise I redid the challenge 04. But with more checks." />
+    <MESSAGE value="Some anotation from aula 07" />
+    <MESSAGE value="Make a program that reads an integer number and displays its successor and predecessor on the screen." />
+    <MESSAGE value="# Create an algorithm that reads a number and displays its double, triple, and square root." />
+    <MESSAGE value="Create a program that reads a student's two grades, calculates, and displays their average." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a program that reads a student's two grades, calculates, and displays their average." />
   </component>
 </project>
