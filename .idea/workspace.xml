@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="Write a program that reads any integer and displays its multiplication table on the screen.">
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
+    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy.">
+      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,28 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula06b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.challenge004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.aula06a.executor": "Run",
+    "Python.aula06b.executor": "Run",
+    "Python.aula07a.executor": "Run",
+    "Python.challenge003.executor": "Run",
+    "Python.challenge004.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.1.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -172,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737935089543</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy.">
+      <option name="closed" value="true" />
+      <created>1738016954833</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738016954833</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +196,7 @@
     <MESSAGE value="Create a program that reads a student's two grades, calculates, and displays their average." />
     <MESSAGE value="Write a program that reads a value in meters and displays it converted to centimeters and millimeters." />
     <MESSAGE value="Write a program that reads any integer and displays its multiplication table on the screen." />
-    <option name="LAST_COMMIT_MESSAGE" value="Write a program that reads any integer and displays its multiplication table on the screen." />
+    <MESSAGE value="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy." />
+    <option name="LAST_COMMIT_MESSAGE" value="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy." />
   </component>
 </project>
