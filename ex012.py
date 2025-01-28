@@ -3,7 +3,7 @@
 print('--------------Exercise 012--------------')
 
 # Request to the user to enter the value.
-value = int(input('Enter the product price: '))
+value = float(input('Enter the product price: '))
 
 # Calculation of 5% of the price.
 newprice =  value - (value * 0.05)

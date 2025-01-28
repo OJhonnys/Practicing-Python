@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="# Create an algorithm that reads an employee's salary and shows their new salary with a 15% raise.">
+    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="update on variable from int to float.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738026172756</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update on variable from int to float.">
+      <option name="closed" value="true" />
+      <created>1738070409883</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738070409883</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,6 +233,7 @@
     <MESSAGE value="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m²." />
     <MESSAGE value="# Create an algorithm that reads the price of a product and shows its new price with a 5% discount." />
     <MESSAGE value="# Create an algorithm that reads an employee's salary and shows their new salary with a 15% raise." />
-    <option name="LAST_COMMIT_MESSAGE" value="# Create an algorithm that reads an employee's salary and shows their new salary with a 15% raise." />
+    <MESSAGE value="update on variable from int to float." />
+    <option name="LAST_COMMIT_MESSAGE" value="update on variable from int to float." />
   </component>
 </project>
