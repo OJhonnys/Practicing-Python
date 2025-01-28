@@ -3,8 +3,8 @@
 print('--------------Exercise 007--------------')
 
 # Read the grade from the user
-grade1 = int(input('Please enter the first grade: '))
-grade2 = int(input('Please enter the second grade: '))
+grade1 = float(input('Please enter the first grade: '))
+grade2 = float(input('Please enter the second grade: '))
 
 # Calculate the average
 average = (grade1 + grade2) / 2
