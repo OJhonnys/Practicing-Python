@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy.">
-      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
+    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m².">
+      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738016954833</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m².">
+      <option name="closed" value="true" />
+      <created>1738018292222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738018292222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +205,7 @@
     <MESSAGE value="Write a program that reads a value in meters and displays it converted to centimeters and millimeters." />
     <MESSAGE value="Write a program that reads any integer and displays its multiplication table on the screen." />
     <MESSAGE value="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy." />
-    <option name="LAST_COMMIT_MESSAGE" value="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy." />
+    <MESSAGE value="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m²." />
+    <option name="LAST_COMMIT_MESSAGE" value="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m²." />
   </component>
 </project>
