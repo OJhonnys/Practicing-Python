@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m².">
-      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
+    <list default="true" id="eafe934a-2b7a-4b25-a98f-c2456b4e614d" name="Changes" comment="# Create an algorithm that reads the price of a product and shows its new price with a 5% discount.">
+      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "Python.ex009.executor": "Run",
     "Python.ex010.executor": "Run",
     "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -190,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738018292222</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="# Create an algorithm that reads the price of a product and shows its new price with a 5% discount.">
+      <option name="closed" value="true" />
+      <created>1738025446244</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738025446244</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +215,7 @@
     <MESSAGE value="Write a program that reads any integer and displays its multiplication table on the screen." />
     <MESSAGE value="# Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy." />
     <MESSAGE value="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m²." />
-    <option name="LAST_COMMIT_MESSAGE" value="# Create a program that reads the width and height of a wall in meters, calculates its area, and determines the amount of paint needed to paint it, knowing that each liter of paint covers an area of 2m²." />
+    <MESSAGE value="# Create an algorithm that reads the price of a product and shows its new price with a 5% discount." />
+    <option name="LAST_COMMIT_MESSAGE" value="# Create an algorithm that reads the price of a product and shows its new price with a 5% discount." />
   </component>
 </project>
